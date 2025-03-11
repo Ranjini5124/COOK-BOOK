@@ -12,6 +12,7 @@ For detailed documentation, refer to [Project Documentation](https://drive.googl
 For detailed project Documentation , refer to [Documentation](https://docs.google.com/document/d/1_bf7cgsnMqb0FNlg_jjAI8FQGQdgZNrH/edit?usp=drive_link&ouid=100983759645222479912&rtpof=true&sd=true).
 ### Demo video
 for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1UzPLurwypCMZQa2-_iJZEPi9PTntZwlA/view?usp=drive_link).
+
 S.Ranjini
 [Email](ranjini0353@gmail.com)
 
@@ -54,7 +55,7 @@ Follow the following steps to get the development environment running.
 * Clone repository from GitHub
 
   ```bash
-  git clone https://github.com/poojamanjula/crypto-verse.git
+  git clone https://github.com/Ranjini5124/COOK-BOOK.git
   ```
 
    _OR USING SSH_
