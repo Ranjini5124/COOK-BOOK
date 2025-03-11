@@ -61,7 +61,7 @@ Follow the following steps to get the development environment running.
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:poojamanjula/crypto-verse.git
+  git clone git@github.com:Ranjini5124/COOK-BOOK.git
   ```
 
 * Install node modules
